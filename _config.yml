@@ -1,14 +1,14 @@
 layout_spectrum: 0.1990148
-typography_spectrum: 0.9200568
 color:
   saturation: 0.9138104
-  lightness: 0.3596491
-  brandStrength: 0.5770677
+  lightness: 0.3360747
+  brandStrength: 0.5707248
   brandColors:
     - '#FCFFFF'
     - '#381C0F'
     - '#A75F35'
     - '#FA9E55'
     - '#9A9792'
-  rhythmicContrast: 0.7180451
+  rhythmicContrast: 0.7050692
+typography_spectrum: 0.9200568
 name: Www.watermelontree.ca
