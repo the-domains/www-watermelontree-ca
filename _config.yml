@@ -1,14 +1,26 @@
-layout_spectrum: 0.1990148
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9200568
 color:
   saturation: 0.9138104
-  lightness: 0.3360747
-  brandStrength: 0.5707248
+  brandStrength: 0.5770677
+  rhythmicContrast: 0.7180451
   brandColors:
     - '#FCFFFF'
     - '#381C0F'
     - '#A75F35'
     - '#FA9E55'
     - '#9A9792'
-  rhythmicContrast: 0.7050692
-typography_spectrum: 0.9200568
+  lightness: 0.3596491
+layout_spectrum: 0.9642857
 name: Www.watermelontree.ca
